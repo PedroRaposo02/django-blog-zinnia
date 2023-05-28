@@ -40,7 +40,7 @@ setup(
         "django-js-asset>=1.2.2",
         "django-mptt>=0.13.4",
         "html5lib>=1.1; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
-        "importlib-metadata>=4.9.0; python_version < '3.10'",
+        "importlib-metadata>=4.8.3",
         "markdown>=3.3.6",
         "pillow>=8.4.0",
         "pyparsing>=3.0.6",
